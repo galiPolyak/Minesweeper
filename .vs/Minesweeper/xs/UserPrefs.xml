@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{8234D254-A395-4F57-A593-F676F97562B7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Minesweeper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Minesweeper/Content/Fonts/FlagCountFont.spritefont">
+    <Files>
+      <File FileName="Minesweeper/Game1.cs" Line="14" Column="14" />
+      <File FileName="Minesweeper/Tile.cs" />
+      <File FileName="Minesweeper/Content/Fonts/FlagCountFont.spritefont" Line="1" Column="1" />
+      <File FileName="Minesweeper/Content/Fonts/TimerFont.spritefont" />
+      <File FileName="Minesweeper/Content/Fonts/NewTimerFont.spritefont" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Minesweeper" expanded="True">
+            <Node name="Minesweeper" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="AssemblyDependencies" expanded="True" />
+              </Node>
+              <Node name="Content" expanded="True">
+                <Node name="Audio" expanded="True" />
+                <Node name="Fonts" expanded="True">
+                  <Node name="FlagCountFont.spritefont" selected="True" />
+                </Node>
+                <Node name="Images" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

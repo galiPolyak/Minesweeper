@@ -1,0 +1,307 @@
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.deps.json
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.runtimeconfig.json
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.runtimeconfig.dev.json
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.dll
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.pdb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.csproj.AssemblyReference.cache
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.AssemblyInfoInputs.cache
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.AssemblyInfo.cs
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.csproj.CoreCompileInputs.cache
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.csproj.CopyComplete
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.dll
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.pdb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.genruntimeconfig.cache
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/board_easy.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/1.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/2.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/3.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/4.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/5.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/6.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/7.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/8.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Check.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Clear_Dark.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Clear_Light.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DropDown.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/EasyButton.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Exit.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/explode.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Explode2.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/flag.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOverBoardShadow.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_NoTime.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_PlayAgain.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_Results.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_TryAgain.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_WinResults.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HardButton.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HUDBar.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Instructions.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/MedButton.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine1.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine2.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine3.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine4.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine5.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine6.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine7.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine8.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Shovel.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/SoundOff.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/SoundOn.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Trophy.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Watch.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/board_hard.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/board_med.xnb
+/Users/galipolyak/Desktop/ICS4/Assignments/Portfolio/Minesweeper/Minesweeper/bin/Debug/netcoreapp3.1/Content/Fonts/FlagCountFont.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Music/Lose.ogg
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Music/Lose.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Music/Win.ogg
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Music/Win.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/ClearFlag.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/LargeClear.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/Mine.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/PlaceFlag.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/SmallClear.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Fonts/FlagCountFont.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Fonts/TimerFont.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/board_easy.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/board_hard.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/board_med.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/1.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/2.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/3.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/4.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/5.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/6.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/7.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/8.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Check.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Clear_Dark.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Clear_Light.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DropDown.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/EasyButton.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Exit.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/explode.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Explode2.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/flag.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOverBoardShadow.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_NoTime.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_PlayAgain.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_Results.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_TryAgain.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_WinResults.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HardButton.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HUDBar.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Instructions.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/MedButton.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine1.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine2.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine3.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine4.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine5.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine6.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine7.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine8.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Shovel.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/SoundOff.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/SoundOn.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Trophy.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Watch.xnb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.deps.json
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.runtimeconfig.json
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.runtimeconfig.dev.json
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.dll
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.pdb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.csproj.AssemblyReference.cache
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.AssemblyInfoInputs.cache
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.AssemblyInfo.cs
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.csproj.CoreCompileInputs.cache
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.csproj.CopyComplete
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.dll
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.pdb
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.genruntimeconfig.cache
+/Users/galipolyak/Documents/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Fonts/NewTimerFont.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Music/Lose.ogg
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Music/Lose.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Music/Win.ogg
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Music/Win.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/ClearFlag.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/LargeClear.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/Mine.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/PlaceFlag.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/SmallClear.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Fonts/FlagCountFont.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Fonts/NewTimerFont.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Fonts/TimerFont.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/board_easy.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/board_hard.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/board_med.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/1.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/2.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/3.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/4.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/5.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/6.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/7.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/8.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Check.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Clear_Dark.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Clear_Light.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DropDown.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/EasyButton.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Exit.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/explode.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Explode2.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/flag.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOverBoardShadow.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_NoTime.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_PlayAgain.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_Results.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_TryAgain.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_WinResults.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HardButton.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HUDBar.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Instructions.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/MedButton.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine1.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine2.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine3.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine4.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine5.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine6.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine7.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine8.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Shovel.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/SoundOff.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/SoundOn.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Trophy.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Watch.xnb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.deps.json
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.runtimeconfig.json
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.runtimeconfig.dev.json
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.dll
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.pdb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.csproj.AssemblyReference.cache
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.AssemblyInfoInputs.cache
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.AssemblyInfo.cs
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.csproj.CoreCompileInputs.cache
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.csproj.CopyComplete
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.dll
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.pdb
+/Users/galipolyak/Desktop/Projects/Minesweeper copy/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.genruntimeconfig.cache
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Music/Lose.ogg
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Music/Lose.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Music/Win.ogg
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Music/Win.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/ClearFlag.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/LargeClear.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/Mine.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/PlaceFlag.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Audio/Sounds/SmallClear.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Fonts/FlagCountFont.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Fonts/NewTimerFont.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Fonts/TimerFont.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/board_easy.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/board_hard.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Backgrounds/board_med.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/1.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/2.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/3.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/4.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/5.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/6.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/7.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/8.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Check.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Clear_Dark.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Clear_Light.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/DropDown.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/EasyButton.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Exit.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/explode.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Explode2.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/flag.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOverBoardShadow.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_NoTime.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_PlayAgain.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_Results.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_TryAgain.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/GameOver_WinResults.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HardButton.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/HUDBar.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Instructions.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/MedButton.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine1.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine2.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine3.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine4.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine5.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine6.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine7.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Mine8.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Shovel.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/SoundOff.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/SoundOn.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Trophy.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Content/Images/Sprites/Watch.xnb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.deps.json
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.runtimeconfig.json
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.runtimeconfig.dev.json
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.dll
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Minesweeper.pdb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/MonoGame.Framework.dll
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libopenal.so.1
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/osx/native/libSDL2-2.0.0.dylib
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/osx/native/libopenal.1.dylib
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/SDL2.dll
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/soft_oal.dll
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/SDL2.dll
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/soft_oal.dll
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Animation2D.dll
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/bin/Debug/netcoreapp3.1/Helper.dll
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.csproj.AssemblyReference.cache
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.AssemblyInfoInputs.cache
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.AssemblyInfo.cs
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.csproj.CoreCompileInputs.cache
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.csproj.CopyComplete
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.dll
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.pdb
+/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/obj/Debug/netcoreapp3.1/Minesweeper.genruntimeconfig.cache

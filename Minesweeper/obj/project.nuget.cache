@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ont+NRwQ9ETGXdIm39w0rrl4rCR6iMiSkKskzUrI6t10h5AuBqGnbu8sMWYeN7qvxdR8quHSjNdl4c1aE6Xejw==",
+  "success": true,
+  "projectFilePath": "/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/Minesweeper.csproj",
+  "expectedPackageFiles": [
+    "/Users/galipolyak/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/galipolyak/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+  ],
+  "logs": []
+}
