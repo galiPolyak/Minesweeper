@@ -51,9 +51,7 @@ Welcome to the Minesweeper game project! This simple Minesweeper game is built i
 
 ## Credits
 
-- This project was created by Gali Polyak.
-- The game assets used in this project are attributed to their respective creators.
-- 
+- This project was created by me!
 
 Enjoy the game and have fun playing Minesweeper!
 
