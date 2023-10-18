@@ -1,11 +1,4 @@
-﻿//Author: Gali Polyak
-//File Name: Game1.cs
-//Project Name: Minesweeper
-//Creation Date: April 22, 2021
-//Modified Date: May 1, 2021
-//Description: Google inspired minesweeper game!
-
-using System;
+﻿using System;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
