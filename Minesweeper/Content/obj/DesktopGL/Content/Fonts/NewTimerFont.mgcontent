@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/Content/Fonts/NewTimerFont.spritefont</SourceFile>
-  <SourceTime>2022-05-01T13:06:28.8438789-04:00</SourceTime>
+  <SourceTime>2022-05-01T13:06:28-04:00</SourceTime>
   <DestFile>/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/Content/bin/DesktopGL/Content/Fonts/NewTimerFont.xnb</DestFile>
-  <DestTime>2023-07-02T23:58:39.2142247-04:00</DestTime>
+  <DestTime>2023-09-12T17:27:02.7737065-04:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2020-08-10T16:17:54-04:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>

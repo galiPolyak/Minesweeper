@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <SourceFile>/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/Content/Fonts/FlagCountFont.spritefont</SourceFile>
-  <SourceTime>2022-04-26T16:40:38.4215919-04:00</SourceTime>
+  <SourceTime>2022-04-26T16:40:38-04:00</SourceTime>
   <DestFile>/Users/galipolyak/Desktop/Projects/MinesweeperGame/Minesweeper/Content/bin/DesktopGL/Content/Fonts/FlagCountFont.xnb</DestFile>
-  <DestTime>2023-07-02T23:58:39.1867758-04:00</DestTime>
+  <DestTime>2023-09-12T17:27:02.7100785-04:00</DestTime>
   <Importer>FontDescriptionImporter</Importer>
   <ImporterTime>2020-08-10T16:17:54-04:00</ImporterTime>
   <Processor>FontDescriptionProcessor</Processor>
