@@ -5,13 +5,13 @@
 
 ---
 
-## 📋 Description
+## Description
 
 Welcome to the Minesweeper game project! This simple Minesweeper game is built in C# using the XNA framework and is designed to run on Windows. The project provides a basic implementation of the classic Minesweeper game, where players can uncover tiles to find mines and strategically place flags to mark potential mine locations.
 
 ---
 
-## 🎮 Features
+## Features
 
 - Classic Minesweeper gameplay with multiple difficulty levels (Easy, Medium, Hard).
 - Timed gameplay with the ability to restart the timer.
@@ -21,7 +21,7 @@ Welcome to the Minesweeper game project! This simple Minesweeper game is built i
 
 ---
 
-## ⚙️ Setup Instructions
+## Setup Instructions
 
 To get the Minesweeper project running with MonoGame and Visual Studio 2022, follow these steps:
 
@@ -50,7 +50,7 @@ The repository includes a folder called [`setup_files/`](./setup_files) containi
 
 ---
 
-## 🛠 Installation
+## Installation
 
 1. Clone or download this repository.
 2. Open the solution file (`.sln`) in Visual Studio.
@@ -59,7 +59,7 @@ The repository includes a folder called [`setup_files/`](./setup_files) containi
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. In Visual Studio, **build** the solution.
 2. Run the game (`F5` or `Ctrl+F5`).
@@ -67,7 +67,7 @@ The repository includes a folder called [`setup_files/`](./setup_files) containi
 
 ---
 
-## 🕹 Controls
+## Controls
 
 - **Left-click**: Uncover tile
 - **Right-click**: Place/remove flag
@@ -78,7 +78,7 @@ The repository includes a folder called [`setup_files/`](./setup_files) containi
 
 ---
 
-## 📜 Game Rules
+## Game Rules
 
 1. Uncover all non-mine tiles to win.
 2. Numbered tiles indicate how many adjacent mines there are.
@@ -87,7 +87,7 @@ The repository includes a folder called [`setup_files/`](./setup_files) containi
 
 ---
 
-## 🧰 Troubleshooting
+## Troubleshooting
 
 - If the game doesn’t build, double-check that the MonoGame templates are correctly installed.
 - If audio doesn’t play, ensure your system audio is enabled and functioning.
@@ -95,12 +95,12 @@ The repository includes a folder called [`setup_files/`](./setup_files) containi
 
 ---
 
-## 🙌 Credits
+## Credits
 
 This project was created by me!
 
 ---
 
-## 📦 Access to Setup Files
+## Access to Setup Files
 
 All necessary setup files are available in the [`setup_files/`](./setup_files) folder of this repository. If you encounter any issues or need help setting them up, feel free to reach out to me directly.
