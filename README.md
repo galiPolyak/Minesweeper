@@ -1,13 +1,17 @@
-Minesweeper Game README
+# Minesweeper Game
 
-Author: Gali Polyak
-Date: April 28, 2023
+**Author:** Gali Polyak  
+**Date:** April 28, 2023
 
-## Description
+---
+
+## 📋 Description
 
 Welcome to the Minesweeper game project! This simple Minesweeper game is built in C# using the XNA framework and is designed to run on Windows. The project provides a basic implementation of the classic Minesweeper game, where players can uncover tiles to find mines and strategically place flags to mark potential mine locations.
 
-## Features
+---
+
+## 🎮 Features
 
 - Classic Minesweeper gameplay with multiple difficulty levels (Easy, Medium, Hard).
 - Timed gameplay with the ability to restart the timer.
@@ -15,43 +19,88 @@ Welcome to the Minesweeper game project! This simple Minesweeper game is built i
 - High score tracking.
 - A graphical user interface created using XNA.
 
-## Installation
+---
 
-1. Ensure you have a Windows machine with the .NET Framework installed.
-2. Download and extract the project files to a local directory.
+## ⚙️ Setup Instructions
 
-## Usage
+To get the Minesweeper project running with MonoGame and Visual Studio 2022, follow these steps:
 
-1. Open the project solution in an IDE that supports C# development, such as Visual Studio.
-2. Build and run the project.
-3. Start playing Minesweeper by clicking on tiles to uncover them or right-clicking to place flags.
-4. Try to clear the board by uncovering all tiles that don't contain mines while avoiding mine tiles.
+### 1. Install MonoGame Setup Files
 
-## Controls
+The repository includes a folder called [`setup_files/`](./setup_files) containing three zip files:
 
-- Left-click on a tile: Uncover the tile.
-- Right-click on a tile: Place or remove a flag.
-- Click the level selection button to change the game difficulty.
-- Click the "Play Again" button to restart the game.
-- Click the speaker icon to toggle sound effects on or off.
-- Click the "Exit" button to quit the game.
+- **`MGCB_ContentPipeline.zip`**  
+  This is the **Pipeline Tool** used to manage and build game assets.  
+  ➤ **Unzip** this file to any location on your system.
 
-## Game Rules
+- **`MonoGameDesktopTemplate.zip`**  
+  A project template to allow MonoGame projects in Visual Studio.  
+  ➤ **Do not unzip.** Move this file to:  
+  `Documents\Visual Studio 2022\Templates\ProjectTemplates\`
 
-1. The objective is to uncover all tiles without triggering a mine.
-2. Tiles may have numbers indicating how many mines are adjacent to them.
-3. Use the numbers to strategically uncover tiles.
-4. You can place flags to mark potential mine locations.
-5. Be cautious and plan your moves to avoid mines.
+- **`MonoGame Project.zip`** *(optional)*  
+  A slightly updated MonoGame template. Use this only if the other one doesn’t work.  
+  ➤ Follow the same instructions as above.
 
-## Troubleshooting
+### 2. Test MonoGame Setup
 
-- If you encounter any issues with the game, ensure you have the necessary dependencies, such as XNA, installed and configured correctly.
-- If you experience problems with sound or music, check your audio settings on your computer.
+- Open Visual Studio 2022.
+- Create a new project using the **MonoGame Desktop Application** template.
+- Make sure it runs properly to confirm setup is complete.
 
-## Credits
+---
 
-- This project was created by me!
+## 🛠 Installation
 
-Enjoy the game and have fun playing Minesweeper!
+1. Clone or download this repository.
+2. Open the solution file (`.sln`) in Visual Studio.
+3. Ensure the `MGCB_ContentPipeline` tool is unzipped and available if you need to build or modify game assets.
+4. Build the solution (`Ctrl+Shift+B`) to ensure everything compiles correctly.
 
+---
+
+## 🚀 Usage
+
+1. In Visual Studio, **build** the solution.
+2. Run the game (`F5` or `Ctrl+F5`).
+3. Play Minesweeper by clicking on tiles and placing flags!
+
+---
+
+## 🕹 Controls
+
+- **Left-click**: Uncover tile
+- **Right-click**: Place/remove flag
+- **Level Button**: Change game difficulty
+- **Play Again**: Restart game
+- **Speaker Icon**: Toggle sound
+- **Exit**: Quit game
+
+---
+
+## 📜 Game Rules
+
+1. Uncover all non-mine tiles to win.
+2. Numbered tiles indicate how many adjacent mines there are.
+3. Use flags to mark suspected mines.
+4. Avoid clicking on a mine tile!
+
+---
+
+## 🧰 Troubleshooting
+
+- If the game doesn’t build, double-check that the MonoGame templates are correctly installed.
+- If audio doesn’t play, ensure your system audio is enabled and functioning.
+- Still stuck? Try recreating the project using the MonoGame template and copying over the game files.
+
+---
+
+## 🙌 Credits
+
+This project was created by me!
+
+---
+
+## 📦 Access to Setup Files
+
+All necessary setup files are available in the [`setup_files/`](./setup_files) folder of this repository. If you encounter any issues or need help setting them up, feel free to reach out to me directly.
